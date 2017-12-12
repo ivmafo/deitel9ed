@@ -5,7 +5,6 @@ import java.util.Scanner;
 // calcula el producto de tres numeros
 public class SelfReview2_5 {
 	
-	
 	public static void main (String[] args) {
 		int x,y,z,result ; 
 		Scanner _x = new Scanner(System.in) ; 
